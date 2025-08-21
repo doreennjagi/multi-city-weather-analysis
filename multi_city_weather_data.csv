@@ -1,0 +1,16 @@
+Time,City,Temperature (°C),Humidity (%),Wind Speed (m/s),Weather
+20:44:52,Nairobi,17.65,61,3.84,overcast clouds
+20:44:53,Mombasa,23.36,84,6.45,scattered clouds
+20:44:54,Kisumu,21.29,62,1.18,broken clouds
+20:45:05,Nairobi,17.65,61,3.84,overcast clouds
+20:45:06,Mombasa,23.36,84,6.45,scattered clouds
+20:45:06,Kisumu,21.29,62,1.18,broken clouds
+20:45:17,Nairobi,17.65,61,3.84,overcast clouds
+20:45:18,Mombasa,23.36,84,6.45,scattered clouds
+20:45:19,Kisumu,21.29,62,1.18,broken clouds
+20:45:29,Nairobi,17.65,61,3.84,overcast clouds
+20:45:30,Mombasa,23.36,84,6.45,scattered clouds
+20:45:31,Kisumu,21.29,62,1.18,broken clouds
+20:45:42,Nairobi,17.65,61,3.84,overcast clouds
+20:45:43,Mombasa,23.36,84,6.45,scattered clouds
+20:45:43,Kisumu,21.29,62,1.18,broken clouds
